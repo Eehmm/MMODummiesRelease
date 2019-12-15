@@ -1,2 +1,0 @@
-# MMODummiesRelease
-For release testing
